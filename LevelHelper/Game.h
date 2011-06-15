@@ -1,9 +1,9 @@
 //
-//  HelloWorldLayer.h
-//  Spacegame
+//  Game.h
+//  LevelHelper
 //
 //  Created by Andy Girvan on 13/06/2011.
-//  Copyright __MyCompanyName__ 2011. All rights reserved.
+//  Copyright Wicked Little Games 2011. All rights reserved.
 //
 
 

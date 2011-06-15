@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  LevelHelper
 //
-//  Created by Andy Girvan on 15/06/2011.
-//  Copyright __MyCompanyName__ 2011. All rights reserved.
+//  Created by Andy Girvan on 13/06/2011.
+//  Copyright Wicked Little Games 2011. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
